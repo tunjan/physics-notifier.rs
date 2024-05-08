@@ -1,0 +1,7 @@
+{
+    "interval": 15,
+    "use_online_source": true,
+    "online_source_url": "https://some-url.com/facts",
+    "enable_logging": true,
+    "log_file": "app.log"
+}

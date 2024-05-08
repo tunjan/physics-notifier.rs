@@ -1,0 +1,100 @@
+The speed of light in a vacuum is a universal constant, approximately 299,792,458 meters per second.
+Planck's constant determines the size of quantized energy levels in quantum mechanics.
+The photoelectric effect demonstrated the quantized nature of light and led to the development of quantum mechanics.
+Quantum entanglement describes the phenomenon where two or more particles remain interconnected, even when separated by distance.
+The Heisenberg Uncertainty Principle states that there is a fundamental limit to the precision with which certain pairs of physical properties of a particle can be known simultaneously.
+Schrödinger's equation describes the wave function of a quantum-mechanical system and how it evolves over time.
+The Pauli Exclusion Principle states that no two identical fermions can occupy the same quantum state simultaneously.
+The Higgs boson is a fundamental particle responsible for giving mass to other particles through the Higgs field.
+The Standard Model of particle physics describes the fundamental particles and their interactions, except for gravity.
+Dark matter is a hypothetical form of matter that cannot be seen directly but accounts for most of the matter in the universe.
+General relativity is Einstein's theory of gravity, which describes gravity as a distortion of space-time caused by the presence of mass or energy.
+Black holes are regions of space-time where the gravitational force is so strong that nothing can escape, not even light.
+The cosmic microwave background radiation is the remnant electromagnetic radiation from the Big Bang.
+The expansion of the universe is accelerating due to the effects of dark energy, a hypothetical form of energy that permeates all of space.
+The strong nuclear force binds together the protons and neutrons in the nucleus of an atom.
+The weak nuclear force is responsible for certain types of radioactive decay and plays a role in the formation of heavier elements in stars.
+The Casimir effect describes the attraction between two parallel uncharged plates in a vacuum due to quantum fluctuations in the electromagnetic field.
+The Zeeman effect is the splitting of spectral lines when an atom is subjected to a strong magnetic field.
+The Stern-Gerlach experiment demonstrated the quantization of angular momentum in atoms.
+The Bose-Einstein condensate is a state of matter where a group of bosons occupies the same quantum state, allowing quantum effects to be observed on a macroscopic scale.
+Superfluidity is the ability of a liquid to flow without viscosity when cooled to extremely low temperatures.
+Superconductivity is the ability of certain materials to conduct electricity with zero resistance when cooled below a critical temperature.
+The Josephson effect describes the flow of Cooper pairs across a thin insulating barrier between two superconductors.
+The Meissner effect is the expulsion of a magnetic field from a superconductor when it is cooled below its critical temperature.
+The Hall effect is the generation of a voltage difference across a conductor carrying a current in the presence of a magnetic field.
+The Aharonov-Bohm effect demonstrates the influence of the electromagnetic vector potential on charged particles, even in regions where the magnetic field is zero.
+The Compton effect describes the increase in wavelength of X-rays or gamma rays when they interact with matter.
+The Mössbauer effect involves the recoil-free emission and absorption of gamma rays by certain nuclei in a solid matrix.
+The Lamb shift is a small difference in energy levels in the hydrogen atom due to quantum electrodynamics.
+The Rutherford scattering experiment provided evidence for the existence of a dense, positively charged nucleus in an atom.
+The Franck-Hertz experiment demonstrated the quantization of energy levels in atoms.
+The Stern-Gerlach experiment demonstrated the quantization of angular momentum in atoms.
+The Davisson-Germer experiment confirmed the wave nature of electrons through the observation of electron diffraction.
+The Millikan oil drop experiment measured the charge of an electron and provided evidence for the quantization of electric charge.
+The Michelson-Morley experiment disproved the existence of a luminiferous ether and paved the way for Einstein's theory of special relativity.
+The Hubble-Lemaître law describes the relationship between the recessional velocity of a galaxy and its distance from Earth, providing evidence for the expansion of the universe.
+The Mermin-Wagner theorem states that continuous symmetries cannot be spontaneously broken in systems with sufficiently short-range interactions in dimensions fewer than three.
+The CPT theorem states that any Lorentz-invariant quantum field theory must obey the combined symmetry of charge conjugation (C), parity inversion (P), and time reversal (T).
+The Bloch theorem describes the behavior of electrons in a periodic potential, such as in a crystal lattice.
+The Onsager reciprocal relations relate the flows of different thermodynamic forces in non-equilibrium systems.
+The Landauer principle sets a fundamental limit on the amount of energy required to erase one bit of information.
+The Haag's theorem states that a quantum field theory with a single-particle interpretation is incompatible with the existence of massless particles with non-zero spin.
+The Jahn-Teller effect describes the geometrical distortion of non-linear molecules or ions due to the presence of certain degenerate electronic states.
+The Clebsch-Gordan coefficients provide a way to combine the angular momenta of two particles to obtain the total angular momentum of the system.
+The Wigner-Eckart theorem relates the reduced matrix elements of tensor operators to their full matrix elements, simplifying calculations in quantum mechanics.
+The Born-Oppenheimer approximation separates the motion of nuclei and electrons in molecular systems, allowing for the calculation of electronic wavefunctions.
+The Frank-Condon principle describes the intensity distribution of vibrational transitions in molecular spectra, based on the overlap of vibrational wavefunctions.
+The Fermi's golden rule describes the transition rate between two states in a quantum system due to a perturbation.
+The Kramers-Kronig relations connect the real and imaginary parts of a complex function that describes the response of a physical system.
+The Thomas precession describes the precession of the spin of an electron in its rest frame due to its motion relative to an external observer.
+The Virial theorem relates the average kinetic and potential energies of a system in a bound state.
+The Adiabatic theorem states that a physical system remains in its instantaneous eigenstate if a given perturbation is acted slowly enough.
+The Josephson effect describes the flow of superconducting current across a thin insulating barrier separating two superconductors.
+The Kondo effect describes the scattering of conduction electrons in a metal by magnetic impurities, leading to an increase in resistivity at low temperatures.
+The Franck-Condon principle explains the intensity distribution of vibrational transitions in molecular spectra based on the overlap of vibrational wavefunctions.
+The Berry phase is a geometric phase acquired by a quantum system as it undergoes a cyclic evolution in parameter space.
+The Breit-Rabi formula describes the energy levels of a single electron in the presence of both an external magnetic field and an internal magnetic field due to spin-orbit coupling.
+The Luttinger liquid theory describes the low-energy excitations of interacting one-dimensional electron systems.
+The Kohn anomaly is a sharp peak in the phonon dispersion relation of metals, caused by the interaction between electrons and lattice vibrations.
+The Landau-Zener formula describes the probability of a non-adiabatic transition between two energy levels in a time-dependent quantum system.
+The Mott transition is a metal-insulator transition that occurs in certain materials due to strong electron-electron interactions
+The Peierls instability is a structural phase transition that occurs in one-dimensional crystals, leading to a distortion of the lattice and the opening of an energy gap.
+The Shubnikov-de Haas oscillations are periodic oscillations in the magnetoresistance of a material, providing information about the Fermi surface and effective mass of charge carriers.
+The Kubo formula relates the linear response of a quantum system to an external perturbation, allowing the calculation of transport coefficients such as conductivity.
+The Anderson localization describes the absence of diffusion of electrons in disordered systems, leading to the formation of localized states.
+The Aharonov-Bohm effect demonstrates the influence of the electromagnetic vector potential on charged particles, even in regions where the magnetic field is zero.
+The Casimir effect is an attractive force between two parallel uncharged plates in a vacuum, arising from quantum fluctuations in the electromagnetic field.
+The Kibble-Zurek mechanism describes the formation of topological defects during phase transitions in quantum field theories.
+The Mermin-Wagner theorem states that continuous symmetries cannot be spontaneously broken in one- or two-dimensional systems with sufficiently short-range interactions.
+The Debye model describes the specific heat of solids at low temperatures by considering the quantized vibrations of atoms in a crystal lattice.
+The Bethe ansatz provides an exact solution to certain one-dimensional quantum many-body systems, such as the Heisenberg spin chain.
+The Keldysh formalism is a non-equilibrium Green's function technique used to describe quantum systems out of thermal equilibrium.
+The Callan-Symanzik equation describes the behavior of Green's functions in quantum field theories under changes in the renormalization scale.
+The Ward-Takahashi identities relate the Green's functions of a quantum field theory to the underlying gauge symmetries.
+The Wentzel-Kramers-Brillouin (WKB) approximation is a semi-classical method for approximating the wavefunction of a quantum system with slowly varying potential.
+The Breit-Wigner distribution describes the energy distribution of resonant states in quantum mechanical scattering processes.
+The Landau-Pomeranchuk-Migdal (LPM) effect describes the suppression of bremsstrahlung radiation in dense materials due to multiple scattering.
+The Unruh effect predicts that an accelerating observer will observe a thermal bath of particles, even in a vacuum, due to the equivalence between acceleration and gravity.
+The Schwinger effect describes the production of electron-positron pairs from a strong electric field, a prediction of quantum electrodynamics.
+The Hawking radiation is the thermal radiation predicted to be emitted by black holes due to quantum effects near the event horizon.
+The Bekenstein-Hawking entropy relates the entropy of a black hole to its surface area, suggesting a deep connection between gravity and thermodynamics.
+The Coleman-Mandula theorem states that the only possible conserved quantities in a quantum field theory are those of the Poincaré group and internal symmetries.
+The Haag-Kastler axioms provide a mathematical framework for the algebraic formulation of quantum field theory on curved spacetimes.
+The Hubbard model is a simplified model used to describe the behavior of strongly correlated electrons in solid-state systems.
+The Ising model is a mathematical model used to study phase transitions and critical phenomena in ferromagnetic materials.
+The Yang-Mills theory is a non-Abelian gauge theory that describes the strong and electroweak interactions in the Standard Model of particle physics.
+The Higgs mechanism is a process in the Standard Model that gives masses to the W and Z bosons through spontaneous symmetry breaking.
+The Weinberg angle relates the strengths of the weak and electromagnetic interactions and is a fundamental parameter in the Standard Model.
+The GIM mechanism explains the suppression of flavor-changing neutral currents in the Standard Model by introducing a fourth quark flavor.
+The Dirac equation is a relativistic wave equation that describes the behavior of spin-1/2 particles, such as electrons and quarks.
+The Landau levels describe the quantized energy levels of charged particles moving in a magnetic field.
+The Fermi liquid theory describes the behavior of interacting fermions in metals and other systems at low temperatures.
+The BCS theory of superconductivity explains the phenomenon of superconductivity in terms of Cooper pairs of electrons.
+The Ginzburg-Landau theory is a phenomenological model that describes the behavior of superconductors near the critical temperature.
+The Berezinskii-Kosterlitz-Thouless transition is a topological phase transition that occurs in two-dimensional systems, such as thin films.
+The Laughlin wavefunction describes the ground state of the fractional quantum Hall effect, a strongly correlated state of matter.
+The Thouless-Kohmoto-Nightingale-den Nijs (TKNN) formula relates the quantized Hall conductance to a topological invariant in the quantum Hall effect.
+The Haldane model is a theoretical model that exhibits a topological phase in a one-dimensional lattice system with time-reversal symmetry.
+The Hofstadter butterfly is a fractal pattern that arises in the energy spectrum of electrons in a two-dimensional lattice subject to a magnetic field.
+The Efimov effect describes the emergence of an infinite series of three-body bound states in quantum systems with resonant two-body interactions.
